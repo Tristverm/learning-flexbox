@@ -20,8 +20,8 @@ body {
   border: 5px solid black;
   height:1300px;
   display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
   align-items: center;
   align-content: center;
 }
