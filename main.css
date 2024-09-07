@@ -71,6 +71,7 @@ body {
   border: 5px solid black;
   margin: 10px;
   /* width: 350px; */
+  flex-grow: 1;
 }
 
 .item-6 {
@@ -79,6 +80,7 @@ body {
   padding: 10px;
   border: 5px solid black;
   margin: 10px;
-  align-self:stretch ;
+  align-self:center ;
   /* width: 350px; */
+  flex-grow: 8;
 }
